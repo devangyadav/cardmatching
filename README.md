@@ -4,6 +4,14 @@ Welcome to the **Memory Game**! Test your memory skills by flipping cards to fin
 
 ---
 
+## 🎮 Demo
+
+Play the game live here: [Game Demo](https://devangyadav.github.io/cardmatching/)
+
+Enjoy flipping the blocks and matching pairs! 🃏✨
+
+---
+
 ## 🎮 How to Play
 
 1. **Objective**: Match all pairs of emojis by flipping the cards.
