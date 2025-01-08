@@ -59,5 +59,5 @@ Enjoy flipping the blocks and matching pairs! 🃏✨
 3. Launch the index.html file in your browser.
 
 ## 📜 License
-This project is open-source and available under the MIT [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE).
 
